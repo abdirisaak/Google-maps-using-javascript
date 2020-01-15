@@ -1,4 +1,4 @@
-# jsGoogleMaps
+# Get the the user location by adding the marker
 javascript and google maps 
 
 # this project is created by abdirisak haji
